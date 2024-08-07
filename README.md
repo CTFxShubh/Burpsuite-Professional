@@ -29,13 +29,6 @@
 	3. Select Manual Activation Option on your bottom Right in Burp Suite Pro.
 	4. Copy License Request from BurpSuite_Pro and paste in Keygenerator.
 	5. Copy license response from Keygenerator and paste in Burp Suite Pro, then next and Done.
-
-# Video Tutorial
-	# For Windows
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YB-8s4johLc/0.jpg)](https://www.youtube.com/watch?v=YB-8s4johLc)
-	
-	# For Kali Linux, Parrot OS, Ubuntu
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/47RuPyGnq_0/0.jpg)](https://www.youtube.com/watch?v=47RuPyGnq_0)
 	
 -----------------------------------------------------------------------------------------------------------------
 # Executing Burp Suite Profession after Activation
